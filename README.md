@@ -1,5 +1,5 @@
-![](repo/ipwndfu.png)
-# Open-source jailbreaking tool for many iOS devices for Raspberry Pi Pico.
+![](https://raw.githubusercontent.com/axi0mX/ipwndfu/master/repo/ipwndfu.png)
+# Everyone's favourite open-source jailbreaking tool for many iOS devices ported for the Raspberry Pi Pico.
 
 ipwnDFU for the Raspberry Pi Pico. The image comes from Elcomsoft iOS Forensic Toolkit for Mac. A5 devices only.
 
